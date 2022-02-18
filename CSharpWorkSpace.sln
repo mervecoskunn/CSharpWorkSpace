@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromMinuteToDayCalculate", "FromMinuteToDayCalculate\FromMinuteToDayCalculate.csproj", "{59BC75FA-AEF7-4862-ACE5-74835811DFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTheDigitsInt", "SumTheDigitsInt\SumTheDigitsInt.csproj", "{7CF35E5A-FF81-4493-AB35-4E3A84EC1581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeOfCyclinder", "VolumeOfCyclinder\VolumeOfCyclinder.csproj", "{712360B0-0D14-4467-AE82-DB914030B9AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeetToMeters", "..\VolumeOfCyclinder\FeetToMeters\FeetToMeters.csproj", "{E5FF0756-5FE7-4C98-AE76-585A9213B812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator", "..\VolumeOfCyclinder\TipCalculator\TipCalculator.csproj", "{0E28B743-2C63-4E0B-A7D0-4A02BE7055E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "..\Exercise1\Exercise1\Exercise1.csproj", "{FFE22D49-7BD6-46D0-9FF7-DF6F860FC981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BC75FA-AEF7-4862-ACE5-74835811DFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BC75FA-AEF7-4862-ACE5-74835811DFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BC75FA-AEF7-4862-ACE5-74835811DFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BC75FA-AEF7-4862-ACE5-74835811DFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF35E5A-FF81-4493-AB35-4E3A84EC1581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF35E5A-FF81-4493-AB35-4E3A84EC1581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF35E5A-FF81-4493-AB35-4E3A84EC1581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF35E5A-FF81-4493-AB35-4E3A84EC1581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712360B0-0D14-4467-AE82-DB914030B9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712360B0-0D14-4467-AE82-DB914030B9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712360B0-0D14-4467-AE82-DB914030B9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712360B0-0D14-4467-AE82-DB914030B9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FF0756-5FE7-4C98-AE76-585A9213B812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FF0756-5FE7-4C98-AE76-585A9213B812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FF0756-5FE7-4C98-AE76-585A9213B812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FF0756-5FE7-4C98-AE76-585A9213B812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E28B743-2C63-4E0B-A7D0-4A02BE7055E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E28B743-2C63-4E0B-A7D0-4A02BE7055E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E28B743-2C63-4E0B-A7D0-4A02BE7055E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E28B743-2C63-4E0B-A7D0-4A02BE7055E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE22D49-7BD6-46D0-9FF7-DF6F860FC981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE22D49-7BD6-46D0-9FF7-DF6F860FC981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE22D49-7BD6-46D0-9FF7-DF6F860FC981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE22D49-7BD6-46D0-9FF7-DF6F860FC981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5270AD39-9936-449D-B09B-75C307491D24}
+	EndGlobalSection
+EndGlobal
