@@ -18,7 +18,7 @@ namespace FinancalApplication_Homework_2_13
             double onemonthAmount = monthlySavingMoney * (1 + monthlyInterestRate);
             double twomonthAmount =(monthlySavingMoney+onemonthAmount)*(1+ monthlyInterestRate);
             double threeMonthAmount= (monthlySavingMoney+twomonthAmount)*(1+ monthlyInterestRate);
-            Console.WriteLine("After the third month, the value in the account becomes: "+ threeMonthAmount);
+            Console.WriteLine("After the third month, the value in the account becomes: "+ Math.Round(threeMonthAmount, 3));
             Console.ReadLine();
 
         }
