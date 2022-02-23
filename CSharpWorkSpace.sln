@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework1", "Ch_3_Home
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework2", "Ch_3_Homework2\Ch_3_Homework2.csproj", "{CFED53F7-BB3E-4B19-B7D0-7C93B905F4AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_HomeworkFindBiggestNumber", "Ch_3_HomeworkFindBiggestNumber\Ch_3_HomeworkFindBiggestNumber.csproj", "{C631FE15-A4A6-43DE-83CD-22CBCDA3A256}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CFED53F7-BB3E-4B19-B7D0-7C93B905F4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFED53F7-BB3E-4B19-B7D0-7C93B905F4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFED53F7-BB3E-4B19-B7D0-7C93B905F4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C631FE15-A4A6-43DE-83CD-22CBCDA3A256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C631FE15-A4A6-43DE-83CD-22CBCDA3A256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C631FE15-A4A6-43DE-83CD-22CBCDA3A256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C631FE15-A4A6-43DE-83CD-22CBCDA3A256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
