@@ -15,24 +15,26 @@ namespace Ch_3_Homework_4_ShowTheDigitsAsAWord
             int.TryParse(Console.ReadLine(), out  number);
             if (number == 0)
                 Console.WriteLine("The number is zero");
-            if (number == 1)
+            else if (number == 1)
                 Console.WriteLine("The number is one");
-            if (number == 2)
+            else if (number == 2)
                 Console.WriteLine("The number is two.");
-            if (number == 3)
+            else if (number == 3)
                 Console.WriteLine("The number is three.");
-            if (number == 4)
+            else if (number == 4)
                 Console.WriteLine("The number is four.");
-            if (number == 5)
+            else if (number == 5)
                 Console.WriteLine("The number is five.");
-            if (number == 6)
+            else if (number == 6)
                 Console.WriteLine("The number is six.");
-            if (number == 7)
+            else if (number == 7)
                 Console.WriteLine("The number is seven.");
-            if (number == 8)
+            else if (number == 8)
                 Console.WriteLine("The number is eight.");
-            if (number == 9)
+            else if (number == 9)
                 Console.WriteLine("The number is nine.");
+            else 
+                Console.WriteLine("Please select between 0 and 9!");
             Console.ReadLine();
             
 
