@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise2", "whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise3", "whileLoopsExercise3\whileLoopsExercise3.csproj", "{0B92A1D5-8C43-435D-A9F8-D18AF40EF976}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise4", "whileLoopsExercise4\whileLoopsExercise4.csproj", "{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{0B92A1D5-8C43-435D-A9F8-D18AF40EF976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B92A1D5-8C43-435D-A9F8-D18AF40EF976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B92A1D5-8C43-435D-A9F8-D18AF40EF976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

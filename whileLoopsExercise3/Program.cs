@@ -14,22 +14,24 @@ namespace whileLoopsExercise3
             int i = 1;
             int n = 10;
             int evenNumbers = 0;
-            while (i < n)
+            while (i<n)
             {
-                if (i % 2 == 0)
+                if (i%2==0)
                 
                     evenNumbers++;
                     i++;
                 
+                
+
             }
-            Console.WriteLine("Even numbers: "+evenNumbers);
+            Console.WriteLine("Even numbers:" + evenNumbers);
             Console.ReadLine();
 
 
 
 
 
-           
+
         }
 
         
