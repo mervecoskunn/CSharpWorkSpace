@@ -10,10 +10,7 @@ namespace Ch_Homework_3._12
     {
         static void Main(string[] args)
         {
-            // Kullanicidan 3 basamakli input al integer
-            // kosul olustur 
-            //if palindrome ise 
-            //else palindrome degil ise yazdir
+           
 
             Console.Write("Enter a three-digit integer: ");
             int number;
