@@ -28,7 +28,6 @@ namespace Ch_3_Homework_3_17
             Random random = new Random();
             int computerGuess = random.Next(0, 3);
 
-
             if (computerGuess == 0 && yourChoice == 1)
                 Console.WriteLine("The computer is scissor. You are rock. You won!!");
             else if (computerGuess == 1 && yourChoice == 2)
@@ -44,7 +43,18 @@ namespace Ch_3_Homework_3_17
             else if (computerGuess == 0 && yourChoice == 2)
                 Console.WriteLine("The computer is scissor.You are papper.You lost!!");
             else if (computerGuess == yourChoice)
-                Console.WriteLine("It is a draw!!");
+            {
+                switch (computerGuess)
+                {
+                    case 0:
+                        Console.WriteLine("The computer is scissor.You are scissor too.It is a draw.");break;
+                    case 1:
+                        Console.WriteLine("The computer is rock.You are rock too.It is a draw."); break;
+                    case 2:
+                        Console.WriteLine("The computer is papper.You are papper too.It is a draw."); break;
+                }
+            }
+                
             else
                 Console.WriteLine("Please select e number between 0 and 2!!");
             

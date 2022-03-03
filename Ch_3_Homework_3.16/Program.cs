@@ -16,12 +16,12 @@ namespace Ch_3_Homework_3._16
             Console.Write("The coordinate in a rectangle: ");
             // Generate random width and height
             Random random = new Random();
-            double width = random.Next(0,101);
-            double height = random.Next(0, 201);
+            double x = random.Next(-50,50);
+            double y = random.Next(-100,100);
 
 
             // Display coordinate
-            Console.WriteLine(width+","+height);
+            Console.WriteLine(x+","+y);
             Console.ReadLine();
             
         }
