@@ -43,9 +43,9 @@ namespace Ch_3_Homework_3._9
                 Console.WriteLine("Please specify 9 digits");
 
 
-
-
             Console.ReadLine();
         }
+
     }
-}
+}    
+    
