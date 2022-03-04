@@ -30,10 +30,10 @@ namespace Ch_3_Homework_3._21
                 m = 13;
                 year = year - 1;
             }
-            if (m == 2)
+            else if (m == 2)
             {
-                year = year - 1;
                 m = 14;
+                year = year - 1;
             }
             Console.Write("Enter day of the month (1-31): ");
             int q;

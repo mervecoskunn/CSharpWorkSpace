@@ -21,47 +21,44 @@ namespace Ch_3_Homework_3._15
 
             
             Random random = new Random(1);
-            int lotteryNumber= random.Next(123,999);
+            int lotteryNumber= random.Next(100,1000);
+             lotteryNumber = 123;
+            string lotteryNumberStr = Convert.ToString(lotteryNumber);
+            char lotteryDigit1 = lotteryNumberStr.ElementAt(0);
+            char lotteryDigit2 = lotteryNumberStr.ElementAt(1);
+            char lotteryDigit3 = lotteryNumberStr.ElementAt(2);
 
-            int lotteryDigit1 = lotteryNumber / 100;
-            int lotteryDigit2 = 10*(lotteryNumber/10) % 10;
-            int lotteryDigit3 = lotteryNumber % 10;
             int guess;
             Console.Write("Enter your guess :");
             int.TryParse(Console.ReadLine(), out guess);
 
-          
-           
-            
-                if (guess == lotteryNumber)
-                {
-                    Console.WriteLine("You have earned $ 10.000!!");
-
-                }
-            else
+            if (guess == lotteryNumber)
             {
-                int guessdigit3 = guess / 100;
-                int guessdigit2 = 10 * (guess / 10) % 10;
-                int guessdigit1 = guess % 10;
-                int guessReverse = guessdigit1 + guessdigit2 + guessdigit3;
-                if (guessReverse== lotteryNumber)
-                {
-                    Console.WriteLine("You have earned $ 3 000!!!");
-
-                }
-
-
-
-
-
-
+                Console.WriteLine("You have earned $ 10.000!!");
 
             }
-                  
+            else
+            {
+                string guessStr = Convert.ToString(guess);
+                char guessDigit1 = guessStr.ElementAt(0);
+                char guessDigit2 = guessStr.ElementAt(1);
+                char guessDigit3 = guessStr.ElementAt(2);
 
-                
+                if (lotteryDigit1==guessDigit2 && lotteryDigit2==guessDigit3 && lotteryDigit3== guessDigit1 ||
+                    lotteryDigit1==guessDigit3 && lotteryDigit2==guessDigit1 && lotteryDigit3==guessDigit2)
+                {
+                    Console.WriteLine("You have earned $ 3 000 !!");
+                }
+                else if  
+                    (lotteryDigit1==guessDigit1 && lotteryDigit2==guessDigit3 && lotteryDigit3==guessDigit2 ||
+                    lotteryDigit1==guessDigit2 && lotteryDigit2==guessDigit1 && lotteryDigit3==guessDigit3 ||
+                    lotteryDigit1==guessDigit3 && lotteryDigit2==guessDigit2 && lotteryDigit3 == guessDigit1)
+
+                    Console.WriteLine("You have earned $ 1000");
+                }
 
             Console.ReadLine();
+            
         }
     }
 }
