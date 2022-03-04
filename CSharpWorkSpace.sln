@@ -15,19 +15,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator", "..\VolumeO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "..\Exercise1\Exercise1\Exercise1.csproj", "{FFE22D49-7BD6-46D0-9FF7-DF6F860FC981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_1_Homework_2-9", "Ch_1_Homework_2-9\Ch_1_Homework_2-9.csproj", "{183377F4-DE5B-4713-8348-DB47A28991FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_1_Homework_2_9", "Ch_1_Homework_2-9\Ch_1_Homework_2_9.csproj", "{183377F4-DE5B-4713-8348-DB47A28991FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatingEnergy_Homework_2-10", "CalculatingEnergy_Homework_2-10\CalculatingEnergy_Homework_2-10.csproj", "{1B1D99EA-3810-41FC-ADDA-80823663A866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationProjection_Homework_2-11", "PopulationProjection_Homework_2-11\PopulationProjection_Homework_2-11.csproj", "{EEA4A057-34A4-4C7E-8557-F20323438733}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_11_PopulationProjection", "PopulationProjection_Homework_2-11\Homework_2_11_PopulationProjection.csproj", "{EEA4A057-34A4-4C7E-8557-F20323438733}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findingRunwayLength_Homework_2-12", "findingRunwayLength_Homework_2-12\findingRunwayLength_Homework_2-12.csproj", "{65B0BF26-9D4F-494C-8052-B42F08A12969}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancalApplication_Homework_2-13", "FinancalApplication_Homework_2-13\FinancalApplication_Homework_2-13.csproj", "{BAE0DB14-E764-482D-9B6E-BFA970F39E91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_13_FinancalApplication", "FinancalApplication_Homework_2-13\Homework_2_13_FinancalApplication.csproj", "{BAE0DB14-E764-482D-9B6E-BFA970F39E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework1", "Ch_3_Homework1\Ch_3_Homework1.csproj", "{4F3B1289-7B1F-44D2-A974-C433B24CFF0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_1", "Ch_3_Homework1\Ch_3_Homework_1.csproj", "{4F3B1289-7B1F-44D2-A974-C433B24CFF0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework2", "Ch_3_Homework2\Ch_3_Homework2.csproj", "{CFED53F7-BB3E-4B19-B7D0-7C93B905F4AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_2", "Ch_3_Homework2\Ch_3_Homework_2.csproj", "{CFED53F7-BB3E-4B19-B7D0-7C93B905F4AF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_HomeworkFindBiggestNumber", "Ch_3_HomeworkFindBiggestNumber\Ch_3_HomeworkFindBiggestNumber.csproj", "{C631FE15-A4A6-43DE-83CD-22CBCDA3A256}"
 EndProject
@@ -49,47 +49,47 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_HomeworkMail_10", "Ch_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_HomeworkMail_11", "Ch_3_HomeworkMail_11\Ch_3_HomeworkMail_11.csproj", "{265B38D6-7E52-4A80-821C-42AEBA7B921E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopExercise1", "whileLoopExercise1\whileLoopExercise1.csproj", "{586EFCA7-99B0-488F-84E1-17292897CEE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopExercise_1", "whileLoopExercise1\whileLoopExercise_1.csproj", "{586EFCA7-99B0-488F-84E1-17292897CEE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise2", "whileLoopsExercise2\whileLoopsExercise2.csproj", "{DAE8AC3A-B9B1-4461-A8FB-64A9AB4BBEC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise_2", "whileLoopsExercise2\whileLoopsExercise_2.csproj", "{DAE8AC3A-B9B1-4461-A8FB-64A9AB4BBEC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise3", "whileLoopsExercise3\whileLoopsExercise3.csproj", "{0B92A1D5-8C43-435D-A9F8-D18AF40EF976}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise_3", "whileLoopsExercise3\whileLoopsExercise_3.csproj", "{0B92A1D5-8C43-435D-A9F8-D18AF40EF976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise4", "whileLoopsExercise4\whileLoopsExercise4.csproj", "{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise_4", "whileLoopsExercise4\whileLoopsExercise_4.csproj", "{516FC87C-0AAA-4D44-9581-2B7CCFA8BFAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise5", "whileLoopsExercise5\whileLoopsExercise5.csproj", "{40286191-1B3B-463F-BCC4-8E0172904AFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsExercise_5", "whileLoopsExercise5\whileLoopsExercise_5.csproj", "{40286191-1B3B-463F-BCC4-8E0172904AFF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoopsHomework_1", "whileLoopsHomework_1\whileLoopsHomework_1.csproj", "{4EB321EF-B442-45FF-BA36-5023C6281CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_Homework_3.5", "Ch3_Homework_3.5\Ch3_Homework_3.5.csproj", "{705C28EE-9072-4E39-A23C-BE8203EB2DD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_5", "Ch3_Homework_3.5\Ch_3_Homework_3_5.csproj", "{705C28EE-9072-4E39-A23C-BE8203EB2DD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.6", "Ch_3_Homework_3.6\Ch_3_Homework_3.6.csproj", "{E094B487-7AB2-4091-911B-97DD6D8161BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_6", "Ch_3_Homework_3.6\Ch_3_Homework_3_6.csproj", "{E094B487-7AB2-4091-911B-97DD6D8161BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.9", "Ch_3_Homework_3.9\Ch_3_Homework_3.9.csproj", "{E41195B3-3B13-4820-92ED-32809754702B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_9", "Ch_3_Homework_3.9\Ch_3_Homework_3_9.csproj", "{E41195B3-3B13-4820-92ED-32809754702B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.12", "Ch_Homework_3.12\Ch_3_Homework_3.12.csproj", "{15E40555-0A6B-4706-B696-0105124E1BB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_12", "Ch_Homework_3.12\Ch_3_Homework_3_12.csproj", "{15E40555-0A6B-4706-B696-0105124E1BB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.14", "Ch_3_Homework_3.14\Ch_3_Homework_3.14.csproj", "{BA3A3A11-7918-4DFD-8F42-24138159DEDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_14", "Ch_3_Homework_3.14\Ch_3_Homework_3_14.csproj", "{BA3A3A11-7918-4DFD-8F42-24138159DEDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.15", "Ch_3_Homework_3.15\Ch_3_Homework_3.15.csproj", "{40A34CA3-E2B5-4B48-B3E5-A782EE3D9876}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_15", "Ch_3_Homework_3.15\Ch_3_Homework_3_15.csproj", "{40A34CA3-E2B5-4B48-B3E5-A782EE3D9876}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.16", "Ch_3_Homework_3.16\Ch_3_Homework_3.16.csproj", "{D0D63BE0-41E6-4D09-B51B-F9A5AFFAAB04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_16", "Ch_3_Homework_3.16\Ch_3_Homework_3_16.csproj", "{D0D63BE0-41E6-4D09-B51B-F9A5AFFAAB04}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_17", "Ch_3_Homework_3_17\Ch_3_Homework_3_17.csproj", "{98FDCBFC-FE91-4425-8F81-5CBCDF044F8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_18", "Ch_Homewrok_3_18\Ch_3_Homework_3_18.csproj", "{A33F9BE6-2F35-4B57-B278-5873A00C5730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.19", "Ch_3_Homework_3.19\Ch_3_Homework_3.19.csproj", "{5869B29A-85A8-463B-95B9-AEBBF763531B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_19", "Ch_3_Homework_3.19\Ch_3_Homework_3_19.csproj", "{5869B29A-85A8-463B-95B9-AEBBF763531B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.21", "Ch_3_Homework_3.21\Ch_3_Homework_3.21.csproj", "{2D3DC259-85EB-4DF7-8A04-4D0367D53D15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_21", "Ch_3_Homework_3.21\Ch_3_Homework_3_21.csproj", "{2D3DC259-85EB-4DF7-8A04-4D0367D53D15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3.22", "Ch_3_Homework_3.22\Ch_3_Homework_3.22.csproj", "{21F6115E-2A2D-4F5C-910F-1E120EB269E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_22", "Ch_3_Homework_3.22\Ch_3_Homework_3_22.csproj", "{21F6115E-2A2D-4F5C-910F-1E120EB269E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_23", "Ch_3_Homework_3_23\Ch_3_Homework_3_23.csproj", "{04CF20F0-6B09-4428-B728-178703CDF69F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_24", "Ch_3_Homework_3_24\Ch_3_Homework_3_24.csproj", "{F91C738D-E1D6-4AFD-B61D-6F527B37671E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_Homework_3_25", "Ch_Homework_3_25\Ch_Homework_3_25.csproj", "{6EA5FBC3-D20E-4F0B-A6E7-A889F3E95445}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_25", "Ch_Homework_3_25\Ch_3_Homework_3_25.csproj", "{6EA5FBC3-D20E-4F0B-A6E7-A889F3E95445}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_Homework_3_26", "Ch_Homework_3_26\Ch_Homework_3_26.csproj", "{3391CC22-419B-47D7-98E3-D43067FF4799}"
 EndProject

@@ -10,15 +10,6 @@ namespace Ch_3_Homework_3._21
     {
         static void Main(string[] args)
         {
-            /*TODO 
-             * kullanicidan input al 
-             * year
-             * month ---->january 1 i 13 olarak tanimla ve february 2 yi 14 olarak guncelle.
-             * day
-             * formulu tanimla
-             * swich ile sonuc ne ise kosullari yazdir
-             */
-
             Console.Write("Enter year: ");
             int year;
             int.TryParse(Console.ReadLine(), out year);
