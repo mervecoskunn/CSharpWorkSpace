@@ -91,7 +91,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_24", "Ch_3_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_25", "Ch_Homework_3_25\Ch_3_Homework_3_25.csproj", "{6EA5FBC3-D20E-4F0B-A6E7-A889F3E95445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_Homework_3_26", "Ch_Homework_3_26\Ch_Homework_3_26.csproj", "{3391CC22-419B-47D7-98E3-D43067FF4799}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Homework_3_26", "Ch_Homework_3_26\Ch_3_Homework_3_26.csproj", "{3391CC22-419B-47D7-98E3-D43067FF4799}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,12 +10,7 @@ namespace Ch_Homework_3_26
     {
         static void Main(string[] args)
         {
-            /*TODO
-             * KULLANICIDAN INPUT AL
-             * IF 5 VE 6 YA BOLUNUYORSA TRUE BOLUNMUYORSA FALSE YAZDIR
-             * IF INPUT 5 E YADA 6 YA BOLUNUYORSA TRUE BOLUNMUYORSA FALSE YAZDIR
-             * IF INPUT BESE YADA 6 YA BOLUNYORSA AMA IKISINE BIRDEN DEGILSE TRUE YADA FALSE YAZDIR.
-             */
+            
             Console.Write("Enter an integer: ");
             int number;
             int.TryParse(Console.ReadLine(), out number);

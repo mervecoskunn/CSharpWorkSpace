@@ -11,7 +11,7 @@ namespace Ch_Homework_3_25
         static void Main(string[] args)
         {
             /*TODO
-             * INPUT AL X1,X2,X3,X4,Y1,Y2,Y3,Y4
+             * INPUT  X1,X2,X3,X4,Y1,Y2,Y3,Y4
              *  if cozum varsa kesisme noktasini yazdir
              * else yoksa cozum paralel yazdir.
              * 
@@ -41,6 +41,19 @@ namespace Ch_Homework_3_25
             Double.TryParse(Console.ReadLine(), out y3);
             Console.Write("y4= ");
             Double.TryParse(Console.ReadLine(), out y4);
+            double x, y,e,f;
+            double a = y1-y2 ;
+            double b = -x1 - x2;
+            double c =y3- y4;
+            double d=-x3- x4;
+            x = ((e * d) - (b * f))/((a*d)-(b*c));
+            y=
+            e = a * x + b * y;
+            f = c * x + d * y;
+            
+
+            x = e * d - b * f;
+             
         }
     }
 }
