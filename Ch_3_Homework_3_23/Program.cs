@@ -10,11 +10,7 @@ namespace Ch_3_Homework_3_23
     {
         static void Main(string[] args)
         {
-            /*TODO
-             * input al 2 kordinat x,y
-             * kontrol et icinde bir noktada mi yokda degil mi
-             * 
-             */
+           
             double x2, y2;
             Console.WriteLine("Enter a point with two coordinates:");
             Console.Write("x2= ");

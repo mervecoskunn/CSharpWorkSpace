@@ -10,16 +10,10 @@ namespace Ch_3_Homework_3_24
     {
         static void Main(string[] args)
         {
-            /* TODO
-             * DEGISKENLERI TANIMLA(ACE, JACK,QUEEN, KING)  
-             * RANDOM URET
-             * SEKILLERI TANIMLA DEGISKENE 
-             * RANDOM URET
-             * YAZDIR EKRANA
-             */
+           
             Random random = new Random();
             int card = random.Next(1, 14);
-            card = 1;
+           
             if (card == 1)
                 Console.Write("The card you picked is Ace of ");
             else if (card == 11)
