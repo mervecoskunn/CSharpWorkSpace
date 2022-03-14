@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopsExercisesExtra_1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopsExercisesExstra_2", "ForLoopExerciseExstra_2\ForLoopsExercisesExstra_2.csproj", "{9A0B1433-E115-49CF-898B-F2637A3FAE74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopsExercises_3", "ForLoopsExercises_3\ForLoopsExercises_3.csproj", "{8DEA0C1E-9EFA-4DAF-9F6D-E2910EA89B47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{9A0B1433-E115-49CF-898B-F2637A3FAE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A0B1433-E115-49CF-898B-F2637A3FAE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A0B1433-E115-49CF-898B-F2637A3FAE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEA0C1E-9EFA-4DAF-9F6D-E2910EA89B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEA0C1E-9EFA-4DAF-9F6D-E2910EA89B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEA0C1E-9EFA-4DAF-9F6D-E2910EA89B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEA0C1E-9EFA-4DAF-9F6D-E2910EA89B47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
