@@ -18,7 +18,6 @@ namespace Ch_3_2_1_Homework_3
             {
                 if (Char.IsPunctuation(str1.ElementAt(i)))
                 {
-                    Console.WriteLine("Character is a punctuation.");
                     punctuation++;
                 }
                 i++;
