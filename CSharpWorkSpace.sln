@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPadLeft", "PadLeft\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPadRight", "StringPadRight\StringPadRight.csproj", "{369FABE2-59D7-46CC-9B9F-F539047D79D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_2_1_Homework_12_A", "Ch_3_2_1_Homework_12a\Ch_3_2_1_Homework_12_A.csproj", "{80A0A8AB-145D-456E-848E-41F2A557D8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{369FABE2-59D7-46CC-9B9F-F539047D79D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369FABE2-59D7-46CC-9B9F-F539047D79D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369FABE2-59D7-46CC-9B9F-F539047D79D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A0A8AB-145D-456E-848E-41F2A557D8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A0A8AB-145D-456E-848E-41F2A557D8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A0A8AB-145D-456E-848E-41F2A557D8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A0A8AB-145D-456E-848E-41F2A557D8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
