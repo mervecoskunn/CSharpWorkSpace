@@ -22,7 +22,7 @@ namespace Ch_3_2_1_Homeworks_JavaBook_5_5
                 
                 pound = k * poundPerKilogram;
                 kilogram = p / 2.2;
-                Console.WriteLine(k+"\t\t"+ pound+"\t|\t"+p+"\t"+kilogram);
+                Console.WriteLine(k+"\t\t"+ pound+"\t|\t"+p+"\t"+Math.Round(kilogram,2));
             }
 
             Console.ReadLine();
