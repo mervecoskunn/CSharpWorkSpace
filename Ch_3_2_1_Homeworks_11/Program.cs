@@ -72,45 +72,111 @@ namespace Ch_3_2_1_Homeworks_11
             //string str2 = "";
             //string str3 = "";
             //char c = 'X';
+            //int index = 2;
 
-            //for (int i = 0; i <1; i++)
-            //    str2+=str1.ElementAt(i);
-            //for (int i = 2; i < str1.Length; i++)
+            //for (int i = 0; i < index; i++)
+            //    str2 += str1.ElementAt(i);
+            //for (int i = index+1; i < str1.Length; i++)
             //    str3 += str1.ElementAt(i);
-            //Console.WriteLine("New string: "+ str2 + c+ str3);
+            //Console.WriteLine("New string: " + str2 + c + str3);
             //Console.ReadLine();
 
             //d.verilen bir stringin başındaki ve sonundaki boşlukları sil
-            //string str1 = " abc ";
+            //string str1 = "...abc.yz.";
             //string str2 = "";
-            //if (str1.ElementAt(0)==' ' && str1.ElementAt(str1.Length-1)==' ')
+            //int i = 0;
+            //int startIndex = 0;
+            //int endIndex = 0;
+
+            //for (i = 0; i < str1.Length; i++)
             //{
-            //    for (int i = 1; i < str1.Length-1; i++)
-            //        str2+= str1.ElementAt(i);
-            //    Console.WriteLine("New string "+ str2);
+            //    if (str1.ElementAt(i) != '.')
+            //    {
+            //        startIndex = i;
+            //        break;
+            //    }
             //}
+
+            //for (i = str1.Length - 1; i >= startIndex; i--)
+            //{
+            //    if (str1.ElementAt(i) != '.')
+            //    {
+            //        endIndex = i;
+            //        break;
+            //    }
+            //}
+
+            //for (i = startIndex; i < endIndex + 1; i++)
+            //{
+            //    str2 += str1.ElementAt(i);
+
+            //}
+
+            //Console.WriteLine(str2);
+
             //Console.ReadLine();
 
             //e.verilen bir stringin sadece başındaki boşlukları sil
             //string str1 = " abc";
             //string str2 = "";
-            //if (str1.ElementAt(0)==' ')
+            //int startIndex = 0;
+            //for (int i = 0; i < str1.Length; i++)
             //{
-            //    for (int i = 1; i < str1.Length; i++)
-            //        str2+=str1.ElementAt(i);
-            //    Console.WriteLine("str1:" + str1+ "\nNew string:"+ str2);
+            //    if (str1.ElementAt(i)!=' ')
+            //    {
+            //        startIndex= i;
+            //        break;
+            //    }
             //}
+            //for (int i = startIndex; i < str1.Length; i++)
+            //{
+            //    str2 += str1.ElementAt(i);
+            //}
+            //Console.WriteLine(str2);
             //Console.ReadLine();
 
-            // f. verilen bir stringin sadece sonundaki boşlukları sil
-            //string str1 = ".abc.";
+            // e. çözüm 2
+            //string str1 = " abc  xy";
             //string str2 = "";
-            //if (str1.ElementAt(str1.Length-1)=='.')
+            //bool hasStarted = false;
+            //for (int i = 0; i < str1.Length; i++)
             //{
-            //    for (int i = 0; i < str1.Length-1; i++)
-            //        str2+=str1.ElementAt(i);
-            //    Console.WriteLine("New string: "+ str2);
+
+            //    if (hasStarted)
+            //    {
+            //        str2 += str1.ElementAt(i);
+            //    }
+            //    else
+            //    {
+            //        if(str1.ElementAt(i) != ' ')
+            //        {
+            //            hasStarted = true;
+            //            str2 += str1.ElementAt(i);
+
+            //        }
+            //    }
+
             //}
+
+
+            //f.verilen bir stringin sadece sonundaki boşlukları sil
+            //string str1 = "-abc---";
+            //string str2 = "";
+            //int endIndex = 0;
+            //for (int i = str1.Length-1; i>=0; i--)
+            //{
+            //    if (str1.ElementAt(i)!='-')
+            //    {
+            //        endIndex = i;
+            //        break;
+            //    }
+            //}
+            //for (int i = 0; i < endIndex+1; i++)
+            //{
+            //    str2 += str1.ElementAt(i);
+
+            //}
+            //Console.WriteLine(str2);
             //Console.ReadLine();
 
 
