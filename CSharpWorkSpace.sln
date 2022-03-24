@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_2_1_Homeworks_JavaBook
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_2_1_Homeworks_JavaBook_5_12", "Ch_3_2_1_Homeworks_JavaBook_5_12\Ch_3_2_1_Homeworks_JavaBook_5_12.csproj", "{19AC0C5D-BD1C-45B0-AD2F-EAE277DA54E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_2_1_Homeworks_JavaBook_5_13", "Ch_3_2_1_Homeworks_JavaBook_5_13\Ch_3_2_1_Homeworks_JavaBook_5_13.csproj", "{D8E2330D-3C76-4DDA-AB77-630C00E78637}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{19AC0C5D-BD1C-45B0-AD2F-EAE277DA54E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19AC0C5D-BD1C-45B0-AD2F-EAE277DA54E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19AC0C5D-BD1C-45B0-AD2F-EAE277DA54E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E2330D-3C76-4DDA-AB77-630C00E78637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E2330D-3C76-4DDA-AB77-630C00E78637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E2330D-3C76-4DDA-AB77-630C00E78637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E2330D-3C76-4DDA-AB77-630C00E78637}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
