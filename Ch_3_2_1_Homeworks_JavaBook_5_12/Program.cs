@@ -18,16 +18,25 @@ namespace Ch_3_2_1_Homeworks_JavaBook_5_12
              */
             int n = 0;
 
-            while (Math.Pow(n, 2) < 12000)
+            while (n * n < 12000)
             {
                 n++;
             }
             Console.WriteLine(n + " is the lowest number, such that n^2 is greater than 12,000");
-            Console.WriteLine("Lowest number: " + (n - 1) + "^2 = " + Math.Pow(n - 1, 2));
-            Console.WriteLine("Greater than (12.000): " + n + "^2 = " + Math.Pow(n, 2));
+            Console.WriteLine("Lowest number: " + (n - 1) + "^2 = " + ((n - 1) * (n - 1)));
+            Console.WriteLine("Greater than (12.000): " + n + "^2 = " + (n * n));
 
             Console.ReadLine();
+
+
+
+
+            // 5.12 ile 5.13'ü tek satırda yazdır (İpucu: Math fonksiyonları kullan)
+
+            //5.12
+
         }
-        
+
+
     }
 }

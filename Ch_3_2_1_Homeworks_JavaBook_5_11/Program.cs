@@ -23,8 +23,12 @@ namespace Ch_3_2_1_Homeworks_JavaBook_5_11
                 if (i % 5 == 0 || i % 6 == 0)
                 {
                     counter++;
-                    if (counter % perLineCount == 0)
+                    if (counter== perLineCount)
+                    {
                         Console.WriteLine(i);
+                        counter = 0;    
+                    }
+                        
                     else
                         Console.Write(i + " ");
                 }

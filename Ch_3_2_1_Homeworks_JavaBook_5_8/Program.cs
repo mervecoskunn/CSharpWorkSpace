@@ -21,22 +21,23 @@ namespace Ch_3_2_1_Homeworks_JavaBook_5_8
             int numberOfStudents;
             Console.Write("Enter your students number: ");
             int.TryParse(Console.ReadLine(), out numberOfStudents);
+            string name;
+            int score;
+
+
             for (int i = 0; i < numberOfStudents; i++)
             {
             
                
                 Console.Write("Enter your name: ");
-                string name;
                 name = Console.ReadLine();
                 Console.Write("Enter your score: ");
-                int score;
                 int.TryParse(Console.ReadLine(), out score);
                 Console.WriteLine("--------------------");
                 if (score>higestScore)
                 {
                     higestScore=score;
                     nameOfTheHigestScore=name;
-
                 }
                 Console.WriteLine("The student with the highest score is " + nameOfTheHigestScore);
                 Console.WriteLine("The highest score is " + higestScore);
