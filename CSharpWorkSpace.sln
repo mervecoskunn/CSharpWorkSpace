@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayFourPatterns", "Disp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Methods_Homework_1", "Ch_3_Methods_Homework_1\Ch_3_Methods_Homework_1.csproj", "{6C4B652A-967D-4FF3-A439-EE85538512D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_3_Methods_Homework_2", "Ch_3_Methods_Homework_2\Ch_3_Methods_Homework_2.csproj", "{16EA7DB4-4E24-41D1-8D77-5CF8300A6BCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +461,10 @@ Global
 		{6C4B652A-967D-4FF3-A439-EE85538512D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C4B652A-967D-4FF3-A439-EE85538512D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C4B652A-967D-4FF3-A439-EE85538512D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16EA7DB4-4E24-41D1-8D77-5CF8300A6BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EA7DB4-4E24-41D1-8D77-5CF8300A6BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EA7DB4-4E24-41D1-8D77-5CF8300A6BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EA7DB4-4E24-41D1-8D77-5CF8300A6BCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
