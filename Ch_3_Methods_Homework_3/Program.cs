@@ -19,7 +19,6 @@ namespace Ch_3_Methods_Homework_3
         public static int sumOddsUntil(int n )
         {
             int sum = 0;
-               n = 10;
             for (int i = 1; i < n; i+=2)
             {
                 sum += i;

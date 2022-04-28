@@ -20,7 +20,6 @@ namespace Ch_3_Methods_Homework_2
         public static int SumEvensUntil(int n)
         {
             int sum = 0;
-            n = 10;
             for (int i = 2; i < 10; i += 2)
             {
                 sum += i;

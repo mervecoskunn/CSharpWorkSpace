@@ -12,7 +12,7 @@ namespace Ch_3_Homework_3._9
         {
             Console.Write("Enter the ISBN number :");
 
-            // Read inpu
+            // Read input
             string isbn = Console.ReadLine();
 
             if (isbn.Length == 9)

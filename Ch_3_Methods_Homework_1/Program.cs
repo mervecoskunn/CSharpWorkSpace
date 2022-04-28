@@ -18,7 +18,6 @@ namespace Ch_3_Methods_Homework_1
         }
         public static int SumUntil(int n)
         {
-             n = 10;
             int sum = 0;
             for (int i = 1; i < n; i++)
             {
